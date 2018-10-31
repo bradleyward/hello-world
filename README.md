@@ -1,2 +1,4 @@
 # hello-world
-My first GitHub repository.
+
+I am immortal. I have inside the blood of kings.
+I have no rival. No man can be my equal.
